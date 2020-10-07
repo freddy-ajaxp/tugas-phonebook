@@ -8,6 +8,7 @@ port 5321
 # INSTALL
 seperti umumnya,
 - npm install
+- sesuaikan config DB
 # POPULATE DATABASE
 bisa import menggunakan aplikasi DB management yg dipakai
 - import DATABASE dari file tugas_phonebook.sql
