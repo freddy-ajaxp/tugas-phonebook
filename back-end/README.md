@@ -1,6 +1,8 @@
 # README
 Bagian BE dari phonebook CRUD.
-menggunakan Sequelize
+
+menggunakan Sequelize.
+
 port 5321
 
 # INSTALL
